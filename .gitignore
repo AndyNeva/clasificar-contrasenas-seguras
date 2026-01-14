@@ -1,6 +1,5 @@
 # Archivos grandes de datos
 rockyou.txt
-*.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
